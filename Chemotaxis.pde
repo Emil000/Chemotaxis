@@ -22,7 +22,6 @@ void draw()
   {
     aBunch[i].show();
     aBunch[i].walk();
-    mouseClicked();
   }
   
   //if (get(mouseX,mouseY) != color(0))
